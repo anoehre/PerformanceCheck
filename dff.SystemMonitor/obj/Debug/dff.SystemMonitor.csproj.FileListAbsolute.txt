@@ -1,0 +1,6 @@
+C:\workLokal\dff.SystemMonitor\dff.SystemMonitor\bin\Debug\dff.SystemMonitor.exe.config
+C:\workLokal\dff.SystemMonitor\dff.SystemMonitor\bin\Debug\dff.SystemMonitor.exe
+C:\workLokal\dff.SystemMonitor\dff.SystemMonitor\bin\Debug\dff.SystemMonitor.pdb
+C:\workLokal\dff.SystemMonitor\dff.SystemMonitor\obj\Debug\dff.SystemMonitor.csprojResolveAssemblyReference.cache
+C:\workLokal\dff.SystemMonitor\dff.SystemMonitor\obj\Debug\dff.SystemMonitor.exe
+C:\workLokal\dff.SystemMonitor\dff.SystemMonitor\obj\Debug\dff.SystemMonitor.pdb
